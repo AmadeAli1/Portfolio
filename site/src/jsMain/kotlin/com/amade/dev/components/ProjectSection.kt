@@ -200,7 +200,7 @@ object ProjectSection {
             Project(
                 name = "Tic Tac Toe",
                 description = "Also known as Noughts and Crosses, is a classic two-player paper-and-pencil game often played on a 3x3 grid. The objective of the game is for one player to align their symbols (either \"X\" or \"O\") in a row, column, or diagonal, before the opponent does.Online and offline mode support (Windows).",
-                link = null
+                link = "https://github.com/AmadeAli1/TicTacToeGame"
             ),
             Project(
                 name = "Authentication JWT API",
