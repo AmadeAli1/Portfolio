@@ -2,7 +2,7 @@
 # Variables are shared across multiple stages (they need to be explicitly
 # opted into each stage by being declaring there too, but their values need
 # only be specified once).
-ARG KOBWEB_APP_ROOT=""
+ARG KOBWEB_APP_ROOT="site"
 # ^ NOTE: KOBWEB_APP_ROOT is commonly set to "site" in multimodule projects
 
 FROM eclipse-temurin:17 as java
